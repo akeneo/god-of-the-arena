@@ -1,0 +1,21 @@
+{
+    "name": "gildas/god-of-the-arena",
+    "require-dev": {
+        "phpspec/phpspec": "2.0.*@dev",
+        "whatthejeff/nyancat-scoreboard": "~1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gildas Quéméner",
+            "email": "gildas.quemener@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/validator": "2.4.*"
+    }
+}
